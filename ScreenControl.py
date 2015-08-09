@@ -13,6 +13,8 @@ blue = (0,0,255)
 white = (255,255,255)
 black = (0,0,0)
 puple = (100,0,100)
+# Start black if nothing recognized
+color = (0,0,0) 
 
 # Loop and listen 10 times
 for i in range(10):
